@@ -1,7 +1,7 @@
 ## Olá, Eu sou a Talita
 
 - 🔭 Atualmente crio projetos em PHP e JavaScript
-- 🌱 Estudando PHP como linguagem principal e Python como segundaria
+- 🌱 Estudando PHP como linguagem principal e Python como secundária
 - 📫 contate-me no email: talitanarciso33@gmail.com
 - 😄 Pronouns: ela/dela
 
